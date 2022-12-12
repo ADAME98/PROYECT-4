@@ -1,0 +1,36 @@
+/*section*/
+
+section {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    background: #ccc;
+    height: 60vh;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.section-cv{
+    width: 30%;
+    height: auto;
+    justify-content: center;
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 10%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.formacion{
+    display: inline-block;
+    width: 50%;
+    height: auto;
+}
+
+.sobre_mi{
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10%;
+    text-shadow: #1b26be 1px 0 10px;
+}
